@@ -66,9 +66,9 @@ corpus exploration, and natural language processing.
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/denisecase/nlp-01-getting-started)
-- [Example Script](https://github.com/denisecase/nlp-01-getting-started/blob/main/src/nlp/web_words.py)
-- [Example Notebook](https://github.com/denisecase/nlp-01-getting-started/blob/main/notebooks/web_words.ipynb)
+- [GitHub Repository](https://github.com/jrwebb7/nlp-01-getting-started-custom)
+- [Example Script](https://github.com/jrwebb7/nlp-01-getting-started-custom/blob/main/src/nlp/web_words.py)
+- [Example Notebook](https://github.com/jrwebb7/nlp-01-getting-started-custom/blob/main/notebooks/web_words.ipynb)
 
 ## Project Resources
 
