@@ -10,3 +10,5 @@ Files and variables with double underscores ("dunders")
 like __init__.py or the variable __name__
 have special meanings in Python.
 """
+
+# Customized by James Webb (2026-11)

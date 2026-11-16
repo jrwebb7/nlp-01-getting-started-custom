@@ -21,6 +21,8 @@ Run from root project folder with:
   uv run python -m nlp.web_words
 """
 
+# Customized by James Webb (2026-11)
+
 # ============================================================
 # Section 1. Setup and Imports (includes logging deps)
 # ============================================================
