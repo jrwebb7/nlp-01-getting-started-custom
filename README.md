@@ -1,9 +1,9 @@
 
-# nlp-01-getting-started
+# nlp-01-getting-started-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
-[![CI](https://github.com/denisecase/nlp-01-getting-started/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-01-getting-started/actions/workflows/ci-python-zensical.yml)
-[![Documentation](https://img.shields.io/badge/docs-site-blue?logo=github)](https://denisecase.github.io/nlp-01-getting-started/)
+[![CI](https://github.com/jrwebb7/nlp-01-getting-started-custom/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/jrwebb7/nlp-01-getting-started-custom/actions/workflows/ci-python-zensical.yml)
+[![Documentation](https://img.shields.io/badge/docs-site-blue?logo=github)](https://jrwebb7.github.io/nlp-01-getting-started-custom/)
 
 [![uv managed](https://img.shields.io/badge/uv-managed-DE5FE9)](https://docs.astral.sh/uv/)
 [![ty type checked](https://img.shields.io/badge/ty-type_checked-2F80ED)](https://docs.astral.sh/ty/)
@@ -14,23 +14,18 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: James Webb
 
-Date: 2026 October
+Date: 2026-11
 
-First project in the Web Mining and Applied NLP course.
+I plan to compare the vocabulary on two public cardiology fellowship program
+pages. I will use Python to extract and clean the page text, then count word
+frequencies to see which topics each program emphasizes. I will check the
+original passages around frequent words to see how each program discusses
+research, mentorship, and clinical training.
 
-Web Mining and Applied Natural Language Processing (NLP)
-focus on retrieving, processing, and analyzing text
-from the web and other digital sources.
-
-The goal is to establish a working Python environment,
-explore a professional project structure,
-run a Python text analysis script,
-and verify that the project works.
-
-The project is configured in
-[pyproject.toml](pyproject.toml).
+This project is based on Denise Case's
+[nlp-01-getting-started example](https://github.com/denisecase/nlp-01-getting-started).
 
 ## Data
 
@@ -122,7 +117,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-01-getting-started/)
+The [hosted documentation site](https://jrwebb7.github.io/nlp-01-getting-started-custom/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -136,8 +131,8 @@ to check project files and publish the docs.
 
 GitHub Actions include:
 
-- [CI: Python and Documentation Checks](https://github.com/denisecase/nlp-01-getting-started/actions/workflows/ci-python-zensical.yml)
-- [CD: Documentation Deployment](https://github.com/denisecase/nlp-01-getting-started/actions/workflows/deploy-zensical.yml)
+- [CI: Python and Documentation Checks](https://github.com/jrwebb7/nlp-01-getting-started-custom/actions/workflows/ci-python-zensical.yml)
+- [CD: Documentation Deployment](https://github.com/jrwebb7/nlp-01-getting-started-custom/actions/workflows/deploy-zensical.yml)
 
 ## Developer Reference
 
@@ -222,7 +217,7 @@ testing, documentation, and code quality.
 
 ## Links
 
-- [Hosted Documentation](https://denisecase.github.io/nlp-01-getting-started/)
+- [Hosted Documentation](https://jrwebb7.github.io/nlp-01-getting-started-custom/)
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
